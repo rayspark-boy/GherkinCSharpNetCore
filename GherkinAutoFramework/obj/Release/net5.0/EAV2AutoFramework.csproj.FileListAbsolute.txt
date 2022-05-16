@@ -1,0 +1,12 @@
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\bin\Release\net5.0\EAV2AutoFramework.deps.json
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\bin\Release\net5.0\EAV2AutoFramework.dll
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\bin\Release\net5.0\EAV2AutoFramework.pdb
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.AssemblyInfoInputs.cache
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.AssemblyInfo.cs
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.csproj.CoreCompileInputs.cache
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.dll
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\ref\EAV2AutoFramework.dll
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.pdb
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\EAV2AutoFramework.csproj.AssemblyReference.cache
+C:\Jare\CU\Master Project\EAV2TestProject\EAV2AutoFramework\obj\Release\net5.0\refint\EAV2AutoFramework.dll

@@ -1,0 +1,12 @@
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.csproj.AssemblyReference.cache
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.AssemblyInfoInputs.cache
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.AssemblyInfo.cs
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.csproj.CoreCompileInputs.cache
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\bin\Debug\net5.0\GherkinAutoFramework.deps.json
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\bin\Debug\net5.0\GherkinAutoFramework.dll
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\bin\Debug\net5.0\ref\GherkinAutoFramework.dll
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\bin\Debug\net5.0\GherkinAutoFramework.pdb
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.dll
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\ref\GherkinAutoFramework.dll
+C:\Jare\CU\Master Project\GherkinCSharpNetCore\GherkinAutoFramework\obj\Debug\net5.0\GherkinAutoFramework.pdb
