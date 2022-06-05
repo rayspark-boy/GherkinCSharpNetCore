@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfysC7cFxPYsOsZR0zQoW6C1Kf1Rp0JC/4fdZjzQCHhqGPOBQ7DVBfi6WD6M4m2XDrpIx7yTIwlQ6FVQ806+Ug==",
+  "dgSpecHash": "feer9gv/U7yzIVhXyvOutMVGJih+6pVOZZ8PxIJT3AnuILgd0IdoC6tTd+HloA+NVd5qcARV+z+Hm1uB4s6uSQ==",
   "success": true,
-  "projectFilePath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
+  "projectFilePath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j.sophanpanitchakul\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\j.sophanpanitchakul\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",

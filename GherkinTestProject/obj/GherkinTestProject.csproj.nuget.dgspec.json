@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj": {}
+    "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj": {
+    "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj",
+        "projectUniqueName": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj",
         "projectName": "GherkinAutoFramework",
-        "projectPath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj",
+        "projectPath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj",
         "packagesPath": "C:\\Users\\j.sophanpanitchakul\\.nuget\\packages\\",
-        "outputPath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\obj\\",
+        "outputPath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j.sophanpanitchakul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,18 +112,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj": {
+    "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
         "projectName": "GherkinTestProject",
-        "projectPath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
+        "projectPath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\GherkinTestProject.csproj",
         "packagesPath": "C:\\Users\\j.sophanpanitchakul\\.nuget\\packages\\",
-        "outputPath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinTestProject\\obj\\",
+        "outputPath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j.sophanpanitchakul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj": {
-                "projectPath": "C:\\Jare\\CU\\Master Project\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj"
+              "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj": {
+                "projectPath": "C:\\Users\\j.sophanpanitchakul\\Source\\Repos\\GherkinCSharpNetCore\\GherkinAutoFramework\\GherkinAutoFramework.csproj"
               }
             }
           }
@@ -228,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
